@@ -1,1 +1,3 @@
-# unknown-dimensional-Matrix
+# Unknown Dimensional Matrix
+
+This repo realizes basic operations of unknown dimensional matrices. 
